@@ -10,13 +10,9 @@
 - ⚡ Fun fact: I have a right hand drive, Nissan Skyline from Japan. I can also drive manual transmission.
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoorelvt&layout=compact&theme=radical)](https://github.com/cmoorelvt/github-readme-stats)
 
-Languages | Technologies
-------------- | -------------
-HTML  | MySql
-CSS | Heroku 
-JS | Node
-jQuery | Bootstrap
+![Christine's github stats](https://github-readme-stats.vercel.app/api?username=cmoorelvt&show_icons=true&theme=radical)
 
 ## You can find me here
 [website]
