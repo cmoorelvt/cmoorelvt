@@ -9,7 +9,12 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have a right hand drive, Nissan Skyline from Japan. I can also drive manual transmission.
 
-## Languages & Technologies
+Languages | Technologies
+------------- | -------------
+HTML  | MySql
+CSS | Heroku 
+JS | Node
+jQuery | Bootstrap
 
 
 ## You can find me here
