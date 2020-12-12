@@ -23,6 +23,6 @@
 [email]
 
 
-[website]: https://cmoorelvt.github.io/Responsive-Portfolio/
+[website]: https://cmoorelvt.github.io/
 [linkedin]: https://www.linkedin.com/in/cmoorelvt/
 [email]: mailto:cmoorelvt@gmail.com
